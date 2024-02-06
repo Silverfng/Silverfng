@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Java, Python, Kotlin, Google Analytics and much more**
 
-- 🚀 Aiming to become a Full-Stack Developer
+- 🚀 Aiming to become a better Full-Stack Developer
 
 - 📫 How to reach me **: ilsongiuliano@yahoo.com.br**
 
 - ⚡ Fun fact **I'm also a passionate musician!**
 
-![](https://github.com/Silverfng/Silverfng/blob/main/assets/giphy.gif) 
+![](https://github.com/Silverfng/Silverfng/blob/main/assets/pixel-art.gif) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
