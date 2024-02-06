@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ilson Giuliano</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
+- 💻 Computer Science student
+
 - 🌱 I’m currently learning **Java, Python, Kotlin, Google Analytics and much more**
+
+- 🚀 Aiming to become a Full-Stack Developer
 
 - 📫 How to reach me **: ilsongiuliano@yahoo.com.br**
 
