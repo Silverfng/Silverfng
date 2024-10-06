@@ -3,7 +3,7 @@
 
 - 💻 Mobile Development student
 
-- 🌱 I’m currently learning **Java, Python, Kotlin, Google Analytics and much more**
+- 🌱 I’m currently learning **Java, Python, Kotlin, Swift/SwiftUI and much more**
 
 - 🚀 Aiming to become a better Full-Stack Developer
 
