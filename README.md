@@ -1,29 +1,70 @@
-<h1 align="center">Hi 👋, I'm Ilson Giuliano</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<div align="center">
 
-- 💻 Mobile Development student
+# Hi there, I'm Ilson Giuliano 👋
 
-- 🌱 I’m currently learning **Java, Python, Kotlin, Swift/SwiftUI and much more**
+### Passionate developer from Brazil 🇧🇷 | Mobile Development Student
 
-- 🚀 Aiming to become a better Full-Stack Developer
+I build things across mobile, full-stack, and low-code platforms — always learning, always shipping.
 
-- 📫 How to reach me **: ilsongiuliano@yahoo.com.br**
+</div>
 
-- ⚡ Fun fact **I'm also a passionate musician!**
+---
 
-![](https://github.com/Silverfng/Silverfng/blob/main/assets/pixel-art.gif) 
+### 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 💻 **Mobile Development** student, aiming to become a well-rounded **Full-Stack Developer**
+- 🌱 Currently learning **Java, Python, Kotlin, Swift/SwiftUI**, and diving deeper into **Claude Code**
+- 🛠️ Also working with **Mendix** and **PostgreSQL**
+- ⚡ Fun fact: I'm also a passionate musician!
+- 📫 Reach me at **ilsongiuliano@yahoo.com.br**
+
+---
+
+### 🔗 Connect with Me
+
 <p align="left">
-<a href="https://linkedin.com/in/ilsongiuliano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilsongiuliano" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ilsongiuliano" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:ilsongiuliano@yahoo.com.br">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silverfng&show_icons=true&locale=en&layout=compact" alt="silverfng" /></p>
+### 🧰 Languages & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silverfng&show_icons=true&locale=en" alt="silverfng" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,swift,python,androidstudio,angular,html,css,c,dotnet,nodejs,spring,mysql,sqlite,postgres,firebase,git,github" alt="tech stack icons"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silverfng&" alt="silverfng" /></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Mendix-311B92?style=for-the-badge&logo=mendix&logoColor=white" alt="Mendix"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
 
+---
+
+### 📊 GitHub Stats
+
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Silverfng&show_icons=true&theme=tokyonight&hide_border=true" alt="Ilson's GitHub stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=Silverfng&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Silverfng&theme=tokyo-night&hide_border=true" alt="Contribution activity graph"/>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Silverfng/Silverfng/main/assets/pixel-art.gif" alt="pixel art" width="200"/>
+</div>
+
+<div align="center">
+  <sub>Thanks for stopping by — feel free to connect!</sub>
+</div>
